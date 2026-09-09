@@ -2,7 +2,7 @@
 
 An end-to-end **Retail Data Analysis project** using **Python, MySQL, and Power BI** to analyze customer behavior, product performance, sales, and order operations.
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies 
 
 * Python — Pandas, NumPy, Matplotlib, Seaborn
 * MySQL — SQL analysis and business queries
